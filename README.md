@@ -1,12 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm YoonSik-Eom, Frontend developer from <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-korea-korea-justicon-flat-justicon.png"/> <b>Daejeon, South-Korea</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Seoul, South-Korea</b>. </p>
+<p>Welcome to my page! </br> I'm YoonSik-Eom, Frontend developer from <img src="https://img.icons8.com/fluency/16/000000/south-korea-circular.png"/> <b>Daejeon, South-Korea</b>, currently living in <img src="https://img.icons8.com/fluency/16/000000/south-korea-circular.png"/> <b>Seoul, South-Korea</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
