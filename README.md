@@ -9,11 +9,11 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
 <!--[![yoon6 languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/eomzic/github-readme-stats)-->
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&theme=nord&hide_border=true&count_private=true)](https://github.com/eomzic/github-readme-stats)
+
+[![yoon6 GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feozmic&count_bg=%23E36060&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="github.com/eomzic"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feozmic&count_bg=%23E36060&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  
-<!--  <a href="https://github.com/eomzic">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=eomzic&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=eomzic's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
-  </a> -->
+
  
 <br>
 
